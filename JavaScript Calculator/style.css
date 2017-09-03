@@ -1,0 +1,76 @@
+﻿body {
+    user-select: none;
+    background: linear-gradient(to left top, #f55, black) fixed;
+}
+
+#calc {
+    width: 300px;
+    height: 400px;
+    margin: auto;
+    background: linear-gradient(to left top, black, #55f);
+    border-radius: 10px 40px;
+  box-shadow: inset -3px -3px 5px 1px #111;
+}
+
+#title {
+    width: 250px;
+    height: 30px;
+    color: white;
+    margin: 10px 25px;
+    position: absolute;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 16pt;
+    overflow: hidden;
+}
+
+span {
+    vertical-align: 25px;
+  font-style: italic;
+}
+
+#result {
+    width: 250px;
+    height: 40px;
+    background-color: #ddd;
+    margin: 70px 15px;
+    position: absolute;
+    font-size: 24pt;
+    text-align: right;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#buttons {
+    width: 250px;
+    height: 200px;
+    margin: 140px 15px;
+    position: absolute;
+    font-size: 24pt;
+    text-align: right;
+    padding: 10px;
+}
+
+table {
+    width: 270px;
+    margin-left: -10px;
+    text-align: center;
+    cursor: pointer;
+    background-color: black;
+    border: none;
+    border-spacing: 3px;
+}
+
+td:active {
+    box-shadow: inset -1px -1px 1px 1px #444, inset 1px 1px 1px 1px #444;
+}
+
+td {
+    border-radius: 3px;
+    background-color: #ddd;
+}
+
+.orange {
+    background-color: orange;
+    color: white;
+}

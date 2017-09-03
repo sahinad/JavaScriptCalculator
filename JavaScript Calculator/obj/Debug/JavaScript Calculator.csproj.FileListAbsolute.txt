@@ -1,0 +1,107 @@
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\JavaScript Calculator\JavaScript Calculator\bin\ApplicationInsights.config
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\JavaScript Calculator\JavaScript Calculator\bin\roslyn\csc.exe
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\JavaScript Calculator\JavaScript Calculator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\JavaScript Calculator\JavaScript Calculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\JavaScript Calculator\JavaScript Calculator\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\JavaScript Calculator\JavaScript Calculator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\JavaScript Calculator\JavaScript Calculator\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\JavaScript Calculator\JavaScript Calculator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\JavaScript Calculator\JavaScript Calculator\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\JavaScript Calculator\JavaScript Calculator\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\JavaScript Calculator\JavaScript Calculator\bin\roslyn\vbc.exe
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\JavaScript Calculator\JavaScript Calculator\bin\roslyn\VBCSCompiler.exe
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\JavaScript Calculator\JavaScript Calculator\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\JavaScript Calculator\JavaScript Calculator\bin\JavaScript Calculator.dll.config
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\JavaScript Calculator\JavaScript Calculator\bin\JavaScript Calculator.dll
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\JavaScript Calculator\JavaScript Calculator\bin\JavaScript Calculator.pdb
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\JavaScript Calculator\JavaScript Calculator\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\JavaScript Calculator\JavaScript Calculator\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\JavaScript Calculator\JavaScript Calculator\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\JavaScript Calculator\JavaScript Calculator\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\JavaScript Calculator\JavaScript Calculator\bin\Microsoft.AI.Web.dll
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\JavaScript Calculator\JavaScript Calculator\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\JavaScript Calculator\JavaScript Calculator\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\JavaScript Calculator\JavaScript Calculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\JavaScript Calculator\JavaScript Calculator\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\JavaScript Calculator\JavaScript Calculator\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\JavaScript Calculator\JavaScript Calculator\bin\Microsoft.AI.Web.xml
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\JavaScript Calculator\JavaScript Calculator\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\JavaScript Calculator\JavaScript Calculator\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\JavaScript Calculator\JavaScript Calculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\JavaScript Calculator\JavaScript Calculator\obj\Debug\JavaScript Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\JavaScript Calculator\JavaScript Calculator\obj\Debug\JavaScript Calculator.dll
+C:\Users\Adem\Documents\Wissen - Erkan Hoca\JavaScript Calculator\JavaScript Calculator\obj\Debug\JavaScript Calculator.pdb
+C:\Users\Sahin\Desktop\JavaScript Calculator\JavaScript Calculator\bin\ApplicationInsights.config
+C:\Users\Sahin\Desktop\JavaScript Calculator\JavaScript Calculator\bin\roslyn\csc.exe
+C:\Users\Sahin\Desktop\JavaScript Calculator\JavaScript Calculator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sahin\Desktop\JavaScript Calculator\JavaScript Calculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sahin\Desktop\JavaScript Calculator\JavaScript Calculator\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sahin\Desktop\JavaScript Calculator\JavaScript Calculator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sahin\Desktop\JavaScript Calculator\JavaScript Calculator\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sahin\Desktop\JavaScript Calculator\JavaScript Calculator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sahin\Desktop\JavaScript Calculator\JavaScript Calculator\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sahin\Desktop\JavaScript Calculator\JavaScript Calculator\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sahin\Desktop\JavaScript Calculator\JavaScript Calculator\bin\roslyn\vbc.exe
+C:\Users\Sahin\Desktop\JavaScript Calculator\JavaScript Calculator\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sahin\Desktop\JavaScript Calculator\JavaScript Calculator\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sahin\Desktop\JavaScript Calculator\JavaScript Calculator\bin\JavaScript Calculator.dll.config
+C:\Users\Sahin\Desktop\JavaScript Calculator\JavaScript Calculator\bin\JavaScript Calculator.dll
+C:\Users\Sahin\Desktop\JavaScript Calculator\JavaScript Calculator\bin\JavaScript Calculator.pdb
+C:\Users\Sahin\Desktop\JavaScript Calculator\JavaScript Calculator\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sahin\Desktop\JavaScript Calculator\JavaScript Calculator\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sahin\Desktop\JavaScript Calculator\JavaScript Calculator\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sahin\Desktop\JavaScript Calculator\JavaScript Calculator\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sahin\Desktop\JavaScript Calculator\JavaScript Calculator\bin\Microsoft.AI.Web.dll
+C:\Users\Sahin\Desktop\JavaScript Calculator\JavaScript Calculator\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sahin\Desktop\JavaScript Calculator\JavaScript Calculator\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sahin\Desktop\JavaScript Calculator\JavaScript Calculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sahin\Desktop\JavaScript Calculator\JavaScript Calculator\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sahin\Desktop\JavaScript Calculator\JavaScript Calculator\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sahin\Desktop\JavaScript Calculator\JavaScript Calculator\bin\Microsoft.AI.Web.xml
+C:\Users\Sahin\Desktop\JavaScript Calculator\JavaScript Calculator\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sahin\Desktop\JavaScript Calculator\JavaScript Calculator\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sahin\Desktop\JavaScript Calculator\JavaScript Calculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sahin\Desktop\JavaScript Calculator\JavaScript Calculator\obj\Debug\JavaScript Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Sahin\Desktop\JavaScript Calculator\JavaScript Calculator\obj\Debug\JavaScript Calculator.dll
+C:\Users\Sahin\Desktop\JavaScript Calculator\JavaScript Calculator\obj\Debug\JavaScript Calculator.pdb
+C:\Users\Adem\Desktop\JavaScript Calculator\JavaScript Calculator\bin\ApplicationInsights.config
+C:\Users\Adem\Desktop\JavaScript Calculator\JavaScript Calculator\bin\roslyn\csc.exe
+C:\Users\Adem\Desktop\JavaScript Calculator\JavaScript Calculator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Adem\Desktop\JavaScript Calculator\JavaScript Calculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Adem\Desktop\JavaScript Calculator\JavaScript Calculator\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Adem\Desktop\JavaScript Calculator\JavaScript Calculator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Adem\Desktop\JavaScript Calculator\JavaScript Calculator\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Adem\Desktop\JavaScript Calculator\JavaScript Calculator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Adem\Desktop\JavaScript Calculator\JavaScript Calculator\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Adem\Desktop\JavaScript Calculator\JavaScript Calculator\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Adem\Desktop\JavaScript Calculator\JavaScript Calculator\bin\roslyn\vbc.exe
+C:\Users\Adem\Desktop\JavaScript Calculator\JavaScript Calculator\bin\roslyn\VBCSCompiler.exe
+C:\Users\Adem\Desktop\JavaScript Calculator\JavaScript Calculator\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Adem\Desktop\JavaScript Calculator\JavaScript Calculator\bin\JavaScript Calculator.dll.config
+C:\Users\Adem\Desktop\JavaScript Calculator\JavaScript Calculator\bin\JavaScript Calculator.dll
+C:\Users\Adem\Desktop\JavaScript Calculator\JavaScript Calculator\bin\JavaScript Calculator.pdb
+C:\Users\Adem\Desktop\JavaScript Calculator\JavaScript Calculator\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Adem\Desktop\JavaScript Calculator\JavaScript Calculator\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Adem\Desktop\JavaScript Calculator\JavaScript Calculator\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Adem\Desktop\JavaScript Calculator\JavaScript Calculator\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Adem\Desktop\JavaScript Calculator\JavaScript Calculator\bin\Microsoft.AI.Web.dll
+C:\Users\Adem\Desktop\JavaScript Calculator\JavaScript Calculator\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Adem\Desktop\JavaScript Calculator\JavaScript Calculator\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Adem\Desktop\JavaScript Calculator\JavaScript Calculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Adem\Desktop\JavaScript Calculator\JavaScript Calculator\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Adem\Desktop\JavaScript Calculator\JavaScript Calculator\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Adem\Desktop\JavaScript Calculator\JavaScript Calculator\bin\Microsoft.AI.Web.xml
+C:\Users\Adem\Desktop\JavaScript Calculator\JavaScript Calculator\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Adem\Desktop\JavaScript Calculator\JavaScript Calculator\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Adem\Desktop\JavaScript Calculator\JavaScript Calculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Adem\Desktop\JavaScript Calculator\JavaScript Calculator\obj\Debug\JavaScript Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Adem\Desktop\JavaScript Calculator\JavaScript Calculator\obj\Debug\JavaScript Calculator.dll
+C:\Users\Adem\Desktop\JavaScript Calculator\JavaScript Calculator\obj\Debug\JavaScript Calculator.pdb
+C:\Users\Adem\Documents\Visual Studio 2017\Projects\JavaScript Calculator\JavaScript Calculator\bin\ApplicationInsights.config
+C:\Users\Adem\Documents\Visual Studio 2017\Projects\JavaScript Calculator\JavaScript Calculator\bin\JavaScript Calculator.dll.config
+C:\Users\Adem\Documents\Visual Studio 2017\Projects\JavaScript Calculator\JavaScript Calculator\bin\JavaScript Calculator.dll
+C:\Users\Adem\Documents\Visual Studio 2017\Projects\JavaScript Calculator\JavaScript Calculator\bin\JavaScript Calculator.pdb
+C:\Users\Adem\Documents\Visual Studio 2017\Projects\JavaScript Calculator\JavaScript Calculator\obj\Debug\JavaScript Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Adem\Documents\Visual Studio 2017\Projects\JavaScript Calculator\JavaScript Calculator\obj\Debug\JavaScript Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Adem\Documents\Visual Studio 2017\Projects\JavaScript Calculator\JavaScript Calculator\obj\Debug\JavaScript Calculator.dll
+C:\Users\Adem\Documents\Visual Studio 2017\Projects\JavaScript Calculator\JavaScript Calculator\obj\Debug\JavaScript Calculator.pdb
